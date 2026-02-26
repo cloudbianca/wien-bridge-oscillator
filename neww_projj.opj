@@ -1,0 +1,295 @@
+(ExpressProject "neww_projj"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\irfr120npbf.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c10.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c8v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v8.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v6.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v1.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c2v7.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj309lt1g.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj177lt1g.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc817-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc807-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mjd32cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mjd31cg.lib"
+        (Type "Schematic Library"))
+      (File "c:\users\anama\downloads\nss30101lt1g.lib"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\neww_projj.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "C:\USERS\ANAMA\DESKTOP\BIANCA P1\NEWW_PROJJ.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE"))
+  (Folder "Outputs"
+    (File ".\neww_projj-pspicefiles\schematic1\schematic1.net"
+      (Type "Report"))
+    (File ".\neww_projj.drc"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\neww_projj-pspicefiles\schematic1\neww_projj.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\neww_projj-pspicefiles\schematic1\neww_projj.sim"
+        (DisplayName "SCHEMATIC1-neww_projj")
+        (Type "PSpice Profile")))
+    (Folder "Stimulus Files")
+    (Folder "Include Files")
+    (Folder "Model Libraries"
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\irfr120npbf.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\irfr120npbf.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c10.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c10.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c8v2.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c8v2.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v8.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v8.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v2.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v2.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v6.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v6.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v1.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v1.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c2v7.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c2v7.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj309lt1g.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj309lt1g.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj177lt1g.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj177lt1g.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc817-25.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc817-25.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc807-25.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\bc807-25.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mjd32cg.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mjd32cg.lib")
+        (Type "PSpiceLibrary"))
+      (File
+         "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mjd31cg.lib"
+        (DisplayName
+           "c:\users\anama\downloads\modele pspice_anexa 1\lib_modelepspice_anexa_1\lib_modelepspice_anexa_1\modele_a1_lib\mjd31cg.lib")
+        (Type "PSpiceLibrary"))
+      (File "c:\users\anama\downloads\nss30101lt1g.lib"
+        (DisplayName "c:\users\anama\downloads\nss30101lt1g.lib")
+        (Type "PSpiceLibrary"))
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\PSPICE\ADVANLS\PSPICE_ELEM.OLB")
+      (DeviceIndex "0"))
+    (VAC
+      (FullPartName "VAC.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\TCLSCRIPTS\CAPPSPICEMODELAPP\LED\HYBRID\SUPPORTFILES\LED.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (QBC807-25
+      (FullPartName "QBC807-25.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC807-25.OLB")
+      (DeviceIndex "0"))
+    (JMMBFJ309LT1
+      (FullPartName "JMMBFJ309LT1.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\MMBFJ309LT1G.OLB")
+      (DeviceIndex "0"))
+    (BZX84-C2V7
+      (FullPartName "BZX84-C2V7.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BZX84C2V7.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (QBC817-25
+      (FullPartName "QBC817-25.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\MODELE PSPICE_ANEXA 1\LIB_MODELEPSPICE_ANEXA_1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC817-25.OLB")
+      (DeviceIndex "0"))
+    (D1N4148
+      (FullPartName "D1N4148.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\PSPICE\DIODE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\USERS\ANAMA\DOWNLOADS\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\anama\Downloads\tools\capture\library\pspice")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Model Libraries")
+      (Path "PSpice Resources" "Simulation Profiles"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 380"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1297 52 471")
+        (Scroll "-206 0")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path "C:\USERS\ANAMA\DESKTOP\PROIECTUL MEU (B) P1\NEWW_PROJJ.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "anama"))
